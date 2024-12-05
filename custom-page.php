@@ -7,7 +7,7 @@ Template Name: Custom Page Template
 /**
  * The template for Custom Page
  *
- * @link https://codex.wordpress.org/Template_Hierarchy
+ * @link https://codex.wordpress.org/Template_Hiergfsdgdfhy
  *
  * @package Absolutte
  */
